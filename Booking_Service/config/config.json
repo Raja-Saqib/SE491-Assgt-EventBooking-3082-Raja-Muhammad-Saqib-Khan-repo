@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Boss#123",
+    "database": "booking_service",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Boss#123",
+    "database": "booking_service",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Boss#123",
+    "database": "booking_service",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
