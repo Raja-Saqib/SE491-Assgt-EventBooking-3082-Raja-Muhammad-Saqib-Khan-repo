@@ -1,5 +1,0 @@
-{"level":"info","message":"PostgreSQL Connected - User_Service","timestamp":"2025-03-13T18:56:30.633Z"}
-{"level":"info","message":"User Service running on port 5000","timestamp":"2025-03-13T18:56:30.688Z"}
-{"level":"info","message":"GET /","timestamp":"2025-03-13T18:59:40.351Z"}
-{"level":"info","message":"GET /user_service","timestamp":"2025-03-13T19:00:27.097Z"}
-{"level":"info","message":"GET /logs","timestamp":"2025-03-13T19:02:33.150Z"}
