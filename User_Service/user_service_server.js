@@ -12,6 +12,12 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 app.use(helmet());
+
+// Handles the root / path
+app.get('/', (req, res) => {
+  res.send('User Service is up and running!');
+});
+
 app.use("/users", user_routes);
 
 // Log API requests

@@ -3,3 +3,13 @@
 {"level":"info","message":"GET /","timestamp":"2025-03-13T18:59:40.351Z"}
 {"level":"info","message":"GET /user_service","timestamp":"2025-03-13T19:00:27.097Z"}
 {"level":"info","message":"GET /logs","timestamp":"2025-03-13T19:02:33.150Z"}
+{"level":"error","message":"Database connection failed: ","timestamp":"2025-08-06T12:32:38.645Z"}
+{"level":"info","message":"PostgreSQL Connected - User_Service","timestamp":"2025-08-06T12:33:36.753Z"}
+{"level":"info","message":"User Service running on port 5000","timestamp":"2025-08-06T12:33:36.800Z"}
+{"level":"info","message":"GET /","timestamp":"2025-08-06T12:37:24.119Z"}
+{"level":"info","message":"GET /","timestamp":"2025-08-06T12:47:28.297Z"}
+{"level":"info","message":"GET /","timestamp":"2025-08-06T12:53:57.286Z"}
+{"level":"info","message":"GET /","timestamp":"2025-08-06T12:53:59.495Z"}
+{"level":"info","message":"PostgreSQL Connected - User_Service","timestamp":"2025-08-06T12:54:26.737Z"}
+{"level":"info","message":"User Service running on port 5000","timestamp":"2025-08-06T12:54:26.749Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2025-08-06T12:55:03.631Z"}
