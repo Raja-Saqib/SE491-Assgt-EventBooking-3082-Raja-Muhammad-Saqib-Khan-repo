@@ -18,6 +18,12 @@ app.use((req, res, next) => {
     next();
 });
 
+// Handles the root / path
+app.get("/", (req, res) => {
+    res.send("Booking Service is running.");
+});
+
+
 app.use("/bookings", booking_routes);
 
 // Centralized error handling middleware

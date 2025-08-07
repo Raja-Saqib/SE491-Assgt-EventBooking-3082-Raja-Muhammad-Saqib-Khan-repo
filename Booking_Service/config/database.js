@@ -1,5 +1,7 @@
 const { Sequelize } = require("sequelize");
-require("dotenv").config({ path: "booking_service.env" });
+// require("dotenv").config({ path: "../booking_service.env" });
+const path = require("path");
+require("dotenv").config({ path: path.join(__dirname, "../booking_service.env") });
 
 const sequelize = new Sequelize(
     process.env.DB_NAME,

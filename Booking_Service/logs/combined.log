@@ -1,0 +1,8 @@
+{"level":"info","message":"Booking Service running on port 5002","timestamp":"2025-08-07T13:39:53.974Z"}
+{"level":"info","message":"GET /","timestamp":"2025-08-07T13:40:31.933Z"}
+{"level":"info","message":"Booking Service running on port 5002","timestamp":"2025-08-07T13:55:13.615Z"}
+{"level":"info","message":"Booking Service running on port 5002","timestamp":"2025-08-07T14:04:07.123Z"}
+{"level":"info","message":"GET /","timestamp":"2025-08-07T14:04:22.498Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2025-08-07T14:04:22.829Z"}
+{"level":"info","message":"GET /bookings","timestamp":"2025-08-07T14:04:43.781Z"}
+{"level":"warn","message":"Missing or malformed Authorization header","timestamp":"2025-08-07T14:04:43.783Z"}
