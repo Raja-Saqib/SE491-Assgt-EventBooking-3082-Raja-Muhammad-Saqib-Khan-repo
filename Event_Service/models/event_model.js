@@ -5,7 +5,8 @@ const EventSchema = new mongoose.Schema({
     description: { type: String },
     category: { type: String },
     venue: { type: String },
-    held_on: { type: Date, required: true }
+    held_on: { type: Date, required: true },
+    deleted: { type: Boolean, default: false }
 });
 
-module.exports = mongoose.model("event_model", EventSchema);
+module.exports = mongoose.model("event_model", EventSchema, "events");

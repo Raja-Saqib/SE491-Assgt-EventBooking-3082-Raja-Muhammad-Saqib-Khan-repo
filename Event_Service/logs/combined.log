@@ -1,0 +1,3 @@
+{"applied_filter":{"deleted":false},"level":"info","limit":null,"message":"Request received","page":null,"sort":"held_on","timestamp":"2025-08-07T01:49:37.458Z","url":"/events"}
+{"level":"info","message":"Total matching events","timestamp":"2025-08-07T01:49:37.635Z","totalCount":1}
+{"count":1,"level":"info","message":"Fetched events","timestamp":"2025-08-07T01:49:37.682Z"}
