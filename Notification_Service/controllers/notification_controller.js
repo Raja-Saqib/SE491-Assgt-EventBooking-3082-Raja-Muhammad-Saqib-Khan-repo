@@ -284,6 +284,3 @@ const export_notifications_csv = async (req, res, next) => {
 };
 
 module.exports = { send_Email_notification, send_SMS_notification, get_all_notifications, export_notifications_csv };
-
-// unimplemented enhancements:
-// You can optionally validate the query parameters (like date formats, enum values) using a library like joi or express-validator — useful in production.
